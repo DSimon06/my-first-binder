@@ -11,7 +11,7 @@ numpy==1.18.5
 pandas==1.0.4
 pyparsing==2.4.7          # via matplotlib
 python-dateutil==2.8.1    # via matplotlib, pandas
-Pillow==2.2.1             # QG edit
+Pillow>=8.3.2             # QG edit
 pytz==2020.1              # via pandas
 scipy==1.4.1              # via seaborn
 seaborn==0.10.1
